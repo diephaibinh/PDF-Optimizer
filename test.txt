@@ -1,0 +1,11 @@
+D:\pdf\testfile\4223.DTDG.pdf
+quality	10
+dpi	(300, 300)
+
+D:\pdf\testfile\1736.KHAC.pdf
+dpi	(300, 300)
+image_size	100
+
+D:\pdf\testfile\3311.KHAC.pdf
+D:\pdf\testfile
+
